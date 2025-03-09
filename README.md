@@ -1,4 +1,4 @@
-# Hello, I'm [Karolis] 👋
+# Hello, I'm Karolis 👋
 
 I'm a passionate Junior Front-End Developer with a focus on combining Front-End Development and QA Testing. Currently, I'm learning **React**, **Node.js**, **JavaScript**, **HTML**, **CSS**, and **SCSS**. I aim to build responsive, user-friendly applications while ensuring high-quality standards through thorough QA testing.
 
