@@ -18,7 +18,7 @@ I'm a passionate Junior Front-End Developer with a focus on combining Front-End 
 
 ## 📫 How to Reach Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/karolis-%C5%BEemelis-45298a7b/])
-- 📧 Email: [karoliszemelis@gmail.com]
+- 📧 Email: karoliszemelis@gmail.com
 
 
 ## 🧑‍💻 Current Learning Goals
